@@ -1,0 +1,72 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: Segoe UI ;
+}
+
+.corpo{
+  margin: auto;
+  margin-top: 3%;
+  width: 50%;
+  background-color: rgba(0,0,0,0.5);
+  padding: 100px 200px;
+  border-radius: 20px;
+}
+
+header{
+  text-align: center;
+}
+ h1{color: #00dd00}
+
+ h2{
+   margin-bottom: 1%;
+ }
+
+
+
+.logo {
+  width: 25%
+}
+
+nav{
+  text-align: center;
+  background-color: #00dd00;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+
+}
+
+#barraorange {
+   background-color: orange;
+   color: orange;
+   width: 30%;
+   border-radius: 10px;
+   padding: 5px;
+ }
+
+ #barraverde {
+   background-color: #00dd00 ;
+   color: #00dd00;
+   width: 50%;
+   border-radius: 10px;
+   padding: 5px;
+ }
+
+ #barrarossa {
+   background-color: #be4141;
+   color: #be4141;
+   width: 10%;
+   border-radius: 10px;
+   padding: 5px;
+ }
+
+.indirizzo {
+  margin: 0%;
+}
+ main{
+   color: white;
+ }
+
+ .paragrafo {
+   margin-top: 5%;
+ }
